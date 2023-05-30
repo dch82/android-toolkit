@@ -1,6 +1,6 @@
 # Android Toolkit
 
-Tools and images I use during ~~Android Phone Liberation~~ the flashing of custom Android ROMS
+Tools and images I use during ~~Android Phone Liberation~~ the flashing of custom Android ROMs
 
 ## Setup Environment
 
